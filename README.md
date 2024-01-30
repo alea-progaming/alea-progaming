@@ -54,3 +54,7 @@ December 10, 2022
 [CISCO Data Analytics Essentials](https://www.credly.com/badges/df509f15-017f-446a-8288-562d9d4f4a33/public_url)<br>
 CISCO<br>
 October 07, 2023
+
+[Programming for Everybody: Getting Started for Python](https://coursera.org/share/a8c84c047c1040071abfaad8a524f64a)<br>
+Coursera<br>
+December 20, 2022
