@@ -58,3 +58,7 @@ October 07, 2023
 [Programming for Everybody: Getting Started for Python](https://coursera.org/share/a8c84c047c1040071abfaad8a524f64a)<br>
 Coursera<br>
 December 20, 2022
+
+[Introduction to Cybersecurity](https://www.credly.com/badges/5cb19106-f625-4b76-b3ec-2dd470a1ef76/public_url)<br>
+CISCO<br>
+May 28, 2024
