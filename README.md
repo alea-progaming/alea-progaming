@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [my personal portfolio website](https://github.com/alea-progaming/web-dev-portfolio/tree/main/Web%20Projects/To_Do_List)
 
-- 🌱 I’m currently learning **Web API**
+- 🌱 I’m currently learning **APIs**
 
-- 💬 Ask me about **OOP with Java, web design and development or anything along the line.**
+- 💬 Ask me about **OOP with Java, web design and development or anything along those lines.**
 
 - 📫 How to reach me **mikaela.programming@gmail.com**
 
