@@ -1,6 +1,6 @@
 <h1 align="center">Mikaela Purugganan</h1>
 <h3 align="center">Web Developer</h3>
-<p align="center">As a dedicated student and skilled full-stack web developer, I am actively seeking an internship to apply my expertise in both frontend and backend technologies. I am passionate about creating seamless and dynamic web applications and eager to bring my skills to a forward-thinking team, contributing to innovative projects while continuing to learn and grow in a professional environment.</p>
+<p align="center">A Computer Science student in New Era University, driven by an unwavering commitment to acquiring knowledge and a profound aspiration to achieve excellence in the world of technology.</p>
 
 
 
