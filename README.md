@@ -33,7 +33,7 @@
 | Certifications  |
 | ------------- |
 | [IBM DB0101EN: SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/5fe703313bdf4dc3855e01dffd98b784)  |
-| [Oracle Cloud Infrastructure 2022 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=342B7577765994C94F80536F91C61834AEBAAA5529EA009E01BF7AC0B3002138)l  |
+| [Oracle Cloud Infrastructure 2022 Certified Foundations Associate(https://catalog-education.oracle.com/pls/certview/sharebadge?id=342B7577765994C94F80536F91C61834AEBAAA5529EA009E01BF7AC0B3002138)l  |
 | [Oracle Cloud Data Management 2022 Foundations Certified Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=05CAE036C507B5A7F5D5CD5784C105DA2B3F8B0B4E598258928F5006F543979D)  |
 | [CISCO Data Analytics Essentials](https://www.credly.com/badges/df509f15-017f-446a-8288-562d9d4f4a33/public_url)  |
 | [Programming for Everybody: Getting Started for Python](https://coursera.org/share/a8c84c047c1040071abfaad8a524f64a)  |
