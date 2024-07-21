@@ -1,5 +1,5 @@
 <h1 align="center">Mikaela Purugganan</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Computer Science Student</h3>
 <p align="center">A Computer Science student in New Era University, driven by an unwavering commitment to acquiring knowledge and a profound aspiration to achieve excellence in the world of technology.</p>
 
 
