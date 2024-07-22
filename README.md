@@ -39,6 +39,7 @@
 | [Programming for Everybody: Getting Started for Python](https://coursera.org/share/a8c84c047c1040071abfaad8a524f64a)  |
 | [Introduction to Backend Development](https://www.coursera.org/account/accomplishments/verify/WJBFBS2BKLQD)  |
 | [Introduction to Cybersecurity](https://www.credly.com/badges/5cb19106-f625-4b76-b3ec-2dd470a1ef76/public_url)  |
+| [Introduction to the Threat Landscape 2.0 Self-Paced](https://github.com/user-attachments/files/16333637/Introduction.to.the.Threat.Landscape.2.0.Self-Paced.pdf)  |
 
 <h2 align="center">Tech Achievements</h2>
 
