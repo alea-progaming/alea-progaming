@@ -70,8 +70,13 @@
 <b>
 
 [Todo List](https://github.com/alea-progaming/To_Do_List.git)
-</b>
 
+
+[Gemini Clone](https://alea-progaming.github.io/gemini-clone/)
+
+
+[Spotify Clone](https://alea-progaming.github.io/spotify-clone/)
+</b>
 <h2 align="center">Skill Set</h2>
 
 ### Programming Languages
