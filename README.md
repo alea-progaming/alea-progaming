@@ -42,22 +42,6 @@ A mobile-first, offline-first **PWA** designed to modernize Villa Prescilla Reso
 
 ---
 
-## 🛠️ Tech Stack Overview
-
-**Languages**  
-`Java` • `Python` • `JavaScript` • `TypeScript` • `HTML` • `CSS`
-
-**Frontend**  
-`Next.js` • `React` • `Tailwind CSS` • `Vite`
-
-**Backend / Cloud**  
-`Node.js` • `Firebase` • `Supabase` • `MySQL`
-
-**Tools**  
-`Git` • `GitHub` • `Netlify` • `Vercel` • `Figma` • `Prettier`
-
----
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
