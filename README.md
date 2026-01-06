@@ -38,7 +38,6 @@ I create projects from scratch: planning → prototyping → coding → shipping
 
 A mobile-first, offline-first **PWA** designed to modernize Villa Prescilla Resort’s contract workflow — fast drafting, clean editing, and built-in version control.
 
-> Think: “no more messy papers” but in app form.
 
 ---
 
